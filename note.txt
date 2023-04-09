@@ -1,0 +1,25 @@
+create private repo, --> done
+see figma, --> done
+
+Task:
+    header, image can be replaced with 3 options --> done
+    create 4 blog, --> done
+    make fake data, --> done
+        see phero note --> done
+    give random time in --> time min read --> done
+    # tag optional --> done
+    written date can be hard coded --> done
+    add book mark icon --> done
+        clicked --> 
+            add total bookmarked --> done
+    mark as read clicked -->
+        add time spent for every clicked --> done 
+
+    take image from unsplash --> done 
+
+    bonus:
+        minimum 8 commit, --> done 
+        mobile responsive, --> done 
+        if try to bookmark for second time
+            show toast --> done 
+        answer of 4 question in footer as blog. --> done
